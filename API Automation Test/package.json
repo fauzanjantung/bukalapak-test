@@ -1,0 +1,15 @@
+{
+  "name": "bukalapak-test-api-automation-test",
+  "version": "1.0.0",
+  "private": true,
+  "author-name": "Fauzan Fathurrahman",
+  "author-mail": "fauzan08fauzan@gmail.com",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "should": "^7.0.2",
+    "supertest": "^1.0.1"
+  }
+}
